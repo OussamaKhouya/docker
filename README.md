@@ -52,7 +52,7 @@ Réalisé par: Oussama Khouya
 4. Sortez du conteneur sans l’arrêter (Ctrl+P puis Ctrl+Q).
 5. Copiez le fichier test.txt du conteneur vers votre machine.!
 
-    [img_19.png](snapshots/img_19.png)
+    ![img_19.png](snapshots/img_19.png)
 6. Modifiez le fichier sur votre machine et recopiez-le dans le conteneur.
 
    ![img_20.png](snapshots/img_20.png)
