@@ -1,6 +1,6 @@
 ## TP1 : Docker & Docker Compose
 
-Réalisé par: Oussama Khouya
+Réalisé par: Oussama Khouya et Achrafe Elalaoui
 
 ### Exercice 1 - Découverte de Docker
 1. Vérifiez que Docker Desktop est bien installé et démarré.
@@ -221,13 +221,13 @@ docker stats
 
     ![img_7.png](img_7.png)
 2. Développez une API Python Flask avec les fonctionnalités :
-   — Connexion à PostgreSQL pour stocker des utilisateurs
-   — Utilisation de Redis pour le cache des sessions
-   — Endpoints CRUD pour gérer les utilisateurs
+   - Connexion à PostgreSQL pour stocker des utilisateurs 
+   - Utilisation de Redis pour le cache des sessions 
+   - Endpoints CRUD pour gérer les utilisateurs
 3. Créez un docker-compose.yml avec 3 services :
-   — web : Application Flask
-   — db : Base de données PostgreSQL
-   — cache : Redis pour le cache
+   - web : Application Flask 
+   - db : Base de données PostgreSQL 
+   - cache : Redis pour le cache
 4. Configurez les volumes persistants pour PostgreSQL.
 5. Ajoutez les variables d’environnement nécessaires.
 6. Configurez les dépendances entre services.

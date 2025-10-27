@@ -1,0 +1,5 @@
+Flask==2.3.2
+psycopg2-binary==2.9.6
+redis==5.0.0
+flask_sqlalchemy==3.0.3
+flask_migrate==4.0.4
